@@ -24,11 +24,13 @@ generateStlFile() {
     args=""
   fi
 
-  # append arguments to the command
-  ${openscad_command} -o "${dest}" "${src}" --imgsize "$(expr ${width} '*' 4),$(expr ${height} '*' 4)" ${args}
-
   rm -f "${dest}.tmp.png"
-  cp "${dest}" "${dest}.tmp.png"
+  # append arguments to the command
+  ${openscad_command} -o "${dest}.tmp.png" "${src}" \
+    --imgsize "$(expr ${width} '*' 4),$(expr ${height} '*' 4)" \
+    --colorscheme Tomorrow \
+    ${args}
+
   ${convert_command} "${dest}.tmp.png" -resize "${width}x${height}" "${dest}"
 
   rm -f "${dest}.tmp.png"
