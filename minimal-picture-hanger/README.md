@@ -2,15 +2,19 @@
 
 This is a minimalistic hanger that can be used to hang frames on your wall.
 
+The hanger is meant to be glued to the wall using a super strong double sided wall tape. The `width` of the project should match the width of your ultra strong tape (which often is around `20mm`).
+
+Simply print it out, stick the double sided tape to the bottom of the printout and then apply it to the wall, giving the tape some time to get a good grip.
+
 This hanger can be tweaked using the OpenSCAD variables documented below.
+
+**NOTE**: This design has to be printed with supports enabled.
 
 # minimal-picture-hanger.scad
 
 [Output STL file in 3D preview](./minimal-picture-hanger.stl)
 
 ![Preview](./minimal-picture-hanger.png)
-
-**NOTE**: This design has to be printed with supports enabled.
 
 ## Customizations
 

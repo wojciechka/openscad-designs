@@ -9,3 +9,7 @@ I am focusing on creating single color designs that help me improve small things
 # Index of subdirectories
 
 * [Minimalistic picture hanger](minimal-picture-hanger/)
+
+    ![](./minimal-picture-hanger/minimal-picture-hanger.png | width=128)
+
+* [Three part container](three-part-container/)
