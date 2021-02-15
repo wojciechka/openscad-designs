@@ -1,4 +1,4 @@
-Designs for 3D prints 
+# Designs for 3D prints 
 
 I've created this repository to store and share designs for 3D prints that I have created using OpenSCAD.
 
@@ -9,5 +9,3 @@ I am focusing on creating single color designs that help me improve small things
 # Index of subdirectories
 
 * [Minimalistic picture hanger](minimal-picture-hanger/)
-* [Corner picture hanger](corner-picture-hanger/)
-
