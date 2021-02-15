@@ -24,8 +24,6 @@ generateStlFile() {
     args=""
   fi
 
-  echo "ARGS = ${args}"
-
   # append arguments to the command
   ${openscad_command} -o "${dest}" "${src}" --imgsize "$(expr ${width} '*' 4),$(expr ${height} '*' 4)" ${args}
 
