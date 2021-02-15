@@ -8,6 +8,10 @@ I am focusing on creating single color designs that help me improve small things
 
 # Index of subdirectories
 
+* [Card holder](card-holder/)
+
+    <img src="./card-holder/card-holder.png" width="128" height="72" />
+
 * [Minimalistic picture hanger](minimal-picture-hanger/)
 
     <img src="./minimal-picture-hanger/minimal-picture-hanger.png" width="128" height="72" />
