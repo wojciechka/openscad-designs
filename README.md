@@ -10,6 +10,10 @@ I am focusing on creating single color designs that help me improve small things
 
 * [Minimalistic picture hanger](minimal-picture-hanger/)
 
-    ![](./minimal-picture-hanger/minimal-picture-hanger.png | width=128)
+    <img src="./minimal-picture-hanger/minimal-picture-hanger.png" width="128" height="72" />
 
 * [Three part container](three-part-container/)
+
+    <img src="./three-part-container/three-part-container-back.png" width="128" height="72" />
+    <img src="./three-part-container/three-part-container-front.png" width="128" height="72" />
+    <img src="./three-part-container/three-part-container-lid.png" width="128" height="72" />
