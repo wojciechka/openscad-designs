@@ -2,13 +2,17 @@
 
 This is a minimalistic hanger that can be used to hang frames on your wall.
 
-![Preview](./minimal-picture-hanger.png)
+This hanger can be tweaked using the OpenSCAD variables documented below.
 
-This hanger can be tweaked using the OpenSCAD variables specified at the top.
+# minimal-picture-hanger.scad
+
+[Output STL file in 3D preview](./minimal-picture-hanger.stl)
+
+![Preview](./minimal-picture-hanger.png)
 
 **NOTE**: This design has to be printed with supports enabled.
 
-# Customizations
+## Customizations
 
 The following are key variables that can be customized in the OpenSCAD file:
 
