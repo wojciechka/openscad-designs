@@ -10,15 +10,15 @@ I am focusing on creating single color designs that help me improve small things
 
 * [Card holder](card-holder/)
 
-    <img src="./card-holder/card-holder.png" width="128" height="72" />
+    <a href="./card-holder/"><img src="./card-holder/card-holder.png" width="128" height="72" /></a>
 
 * [Image based keychain](image-based-keychain/)
 
-    <img src="./image-based-keychain/image-based-keychain.png" width="128" height="72" />
+    <a href="./image-based-keychain/"><img src="./image-based-keychain/image-based-keychain.png" width="128" height="72" /></a>
 
 * [Minimalistic picture hanger](minimal-picture-hanger/)
 
-    <img src="./minimal-picture-hanger/minimal-picture-hanger.png" width="128" height="72" />
+    <a href="./minimal-picture-hanger/"><img src="./minimal-picture-hanger/minimal-picture-hanger.png" width="128" height="72" /></a>
 
 * [Password storer](password-storer/)
 
@@ -26,6 +26,6 @@ I am focusing on creating single color designs that help me improve small things
 
 * [Three part container](three-part-container/)
 
-    <img src="./three-part-container/three-part-container-back.png" width="128" height="72" />
-    <img src="./three-part-container/three-part-container-front.png" width="128" height="72" />
-    <img src="./three-part-container/three-part-container-lid.png" width="128" height="72" />
+    <a href="./three-part-container/"><img src="./three-part-container/three-part-container-back.png" width="128" height="72" /></a>
+    <a href="./three-part-container/"><img src="./three-part-container/three-part-container-front.png" width="128" height="72" /></a>
+    <a href="./three-part-container/"><img src="./three-part-container/three-part-container-lid.png" width="128" height="72" /></a>
