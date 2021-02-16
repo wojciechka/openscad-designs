@@ -12,6 +12,10 @@ I am focusing on creating single color designs that help me improve small things
 
     <img src="./card-holder/card-holder.png" width="128" height="72" />
 
+* [Image based keychain](image-based-keychain/)
+
+    <img src="./image-based-keychain/image-based-keychain.png" width="128" height="72" />
+
 * [Minimalistic picture hanger](minimal-picture-hanger/)
 
     <img src="./minimal-picture-hanger/minimal-picture-hanger.png" width="128" height="72" />
