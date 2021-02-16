@@ -12,7 +12,7 @@ I have not tested it outside of my printer, but I believe it should work just fi
 
 # password-storer.scad
 
-[Output STL file in 3D preview](./password-storer.stl) - please note that the preview will not show anything meaningful except for a cube as the text is embedded inside the cube
+[Output STL file in 3D preview](./password-storer.stl) - in order to see the hidden text, switch to Wireframe mode
 
 ![Preview](./password-storer.png)
 
