@@ -8,6 +8,12 @@ I am focusing on creating single color designs that help me improve small things
 
 # Index of subdirectories
 
+* [1st design](1st-design/)
+
+    <a href="./1st-design/"><img src="./1st-design/1st-design-step1.png" width="128" height="72" /></a>
+    <a href="./1st-design/"><img src="./1st-design/1st-design-step2.png" width="128" height="72" /></a>
+    <a href="./1st-design/"><img src="./1st-design/1st-design-step3.png" width="128" height="72" /></a>
+
 * [Card holder](card-holder/)
 
     <a href="./card-holder/"><img src="./card-holder/card-holder.png" width="128" height="72" /></a>
