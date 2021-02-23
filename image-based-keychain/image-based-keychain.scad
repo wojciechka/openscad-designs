@@ -1,6 +1,6 @@
 keychain_radius = 16;
 bottom_height = 1.4;
-border_height = 1.6;
+border_height = 1.3;
 border_radius = 1.2;
 holder_outer_radius = 5.0;
 holder_inner_radius = 2.5;
