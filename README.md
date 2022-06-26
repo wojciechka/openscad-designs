@@ -26,6 +26,10 @@ I am focusing on creating single color designs that help me improve small things
 
     <a href="./minimal-picture-hanger/"><img src="./minimal-picture-hanger/minimal-picture-hanger.png" width="128" height="72" /></a>
 
+* [Surface Pen cap](surface-pen-cap/)
+
+    <a href="./surface-pen-cap/"><img src="./surface-pen-cap/surface-pen-cap.png" width="128" height="72" /></a>
+
 * [Password storer](password-storer/)
 
     <img src="./password-storer/password-storer.png" width="128" height="72" />
